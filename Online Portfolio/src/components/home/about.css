@@ -1,0 +1,9 @@
+* .aboutHeader {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+* .headerRight {
+color: rgba(248, 117, 9, 1);
+font-weight: 500;
+}

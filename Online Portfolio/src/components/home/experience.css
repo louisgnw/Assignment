@@ -1,0 +1,13 @@
+* .experienceDate {
+    color: rgba(248, 117, 9, 1);
+    font-weight: 500;
+  }
+  
+  * .experienceDate {
+    text-align: right;
+    font-size: 1rem;
+  }
+  
+  * .experienceTitle {
+    color: black;
+  }
