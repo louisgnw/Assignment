@@ -30,7 +30,7 @@ const App = () => {
   return (
     <div className="container-fluid movie-app">
       <div className="row d-flex align-items-center mt-4 mb-4">
-         <MovieListHeading heading="FinProH8 -  Final Project"/>
+         <MovieListHeading heading="FinProH8"/>
          <SearchBox searchValue={searchValue} setSearchValue={setSearchValue}/>
       </div>
       <div className="row">
